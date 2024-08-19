@@ -1,7 +1,7 @@
 {
   "name": "uni-use-interceptor",
   "version": "1.0.0",
-  "description": "uni-app 优化版 interceptor",
+  "description": "uni-app 优化版 uni Interceptor",
   "license": "MIT",
   "repository": {
     "type": "git",
